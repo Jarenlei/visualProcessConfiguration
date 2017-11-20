@@ -1,0 +1,1 @@
+git://10.5.230.15:12530/visualConfiguratioin/vpf.git
